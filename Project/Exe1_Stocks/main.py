@@ -1,5 +1,5 @@
-from Project.Exe1.file_handling import get_prices, write_transactions
-from Project.Exe1.profit_logic import get_buy_sell_dates
+from Project.Exe1_Stocks.file_handling import get_prices, write_transactions
+from Project.Exe1_Stocks.profit_logic import get_buy_sell_dates
 
 IN_FILENAME = 'djia.csv'
 OUT_FILENAME = 'best_djia.txt'

@@ -1,6 +1,6 @@
 import csv
 
-from Project.Exe1.profit_logic import get_all_dates
+from Project.Exe1_Stocks.profit_logic import get_all_dates
 
 
 class GetPricesError(Exception):
